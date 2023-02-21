@@ -1,0 +1,5 @@
+1. Create Virtual env. using
+virtualenv venv
+source venv/bin/activate
+
+2. Install requirements using <pip install -r requirements.txt>
